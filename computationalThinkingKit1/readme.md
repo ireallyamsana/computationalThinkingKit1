@@ -1,5 +1,7 @@
 # Computional Thinking Kit1
 
+In this computational thinking kit, all the .html files use the same design by sharing one css file (ct.css). The explanation of each web is as followed:
+
 factorial.html : an algorithm that receives a positive number, as n, and outputs n! (n Factorial)
 
 fibonacciSequence: an algorithm that inputs an integer greater than 1, as n, and outputs the first n values of the Fibonacci sequence  
